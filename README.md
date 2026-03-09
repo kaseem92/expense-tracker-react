@@ -12,7 +12,9 @@ This app allows users to **add, view, and delete expenses while automatically ca
 ---
 
 ## 📸 Screenshots
-![Expense Tracker Screenshot](./assets/screenshot.png)
+<p align="center">
+  <img src="./assets/screenshot.png" width="800"/>
+</p>
 
 ---
 
